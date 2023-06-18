@@ -22,6 +22,7 @@ body {
   font-family: var(--font-family-openSans);
   background-image: url(../img/bg-mobile.svg);
   background-repeat: no-repeat;
+  background-size: contain;
   /* background-position: center; */
 }
 
@@ -120,12 +121,14 @@ i:hover {
   }
 }
 
-@media only screen and (min-width: 1060px) {
+@media only screen and (min-width: 880px) {
   body {
-    background-image: url(../img/bg-desktop.svg);
-    background-size: cover;
-  }
+      background-image: url(../img/bg-desktop.svg);
+      background-size: cover;
+    }
+}
 
+@media only screen and (min-width: 1060px) {
   header img {
     width: 220px;
   }
