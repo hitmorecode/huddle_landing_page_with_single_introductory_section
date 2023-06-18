@@ -20,6 +20,9 @@ body {
   background-color: var(--primary-violet);
   color: #fff;
   font-family: var(--font-family-poppins);
+  background-image: url(../img/bg-mobile.svg);
+  background-repeat: no-repeat;
+  /* background-position: center; */
 }
 
 header {
@@ -62,4 +65,27 @@ p {
 p {
   font-size: 15px;
   line-height: 24px;
+  margin-bottom: 25px;
+}
+
+button {
+  border: none;
+  background-color: #fff;
+  color: var(--primary-violet);
+  font-size: 14px;
+  width: 200px;
+  height: 40px;
+  border-radius: 50px;
+  margin-bottom: 100px;
+}
+
+i {
+  font-size: 20px;
+  border: 2px solid #fff;
+  padding: 4px 8px;
+  border-radius: 100px;
+}
+
+.bi-twitter {
+  margin: 0 9px;
 }
