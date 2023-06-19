@@ -34,7 +34,7 @@ Users should be able to:
 
 - Solution URL: [HTML Solution](https://github.com/hitmorecode/huddle_landing_page_with_single_introductory_section/blob/main/index.html)
 - Solution URL: [CSS Solution](https://github.com/hitmorecode/huddle_landing_page_with_single_introductory_section/blob/main/css/style.css)
-- Live Site URL: [Live site](https://hitmorecode.github.io/3_column_preview_card_component/)
+- Live Site URL: [Live site](https://hitmorecode.github.io/huddle_landing_page_with_single_introductory_section/)
 
 ## My process
 
